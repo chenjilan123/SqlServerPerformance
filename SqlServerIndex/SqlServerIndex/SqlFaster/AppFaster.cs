@@ -9,7 +9,7 @@ namespace SqlServerIndex
     {
         public void CreateScheme()
         {
-            //SqlConnectionStringBuilder
+            //var builder = new System.Data.SqlClient.();
         }
     }
 }
